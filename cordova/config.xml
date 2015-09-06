@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="my.flickr_search.app" version="1.0.0">
+  <name>Flickr Search</name>
+  <description>
+    Search Flickr public images by tag
+  </description>
+  <preference name="Fullscreen" value="true" />
+  <plugin name="cordova-plugin-dialogs" version="1.1.1" />
+</widget>

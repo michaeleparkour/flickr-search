@@ -1,0 +1,10 @@
+{
+  "name": "flickr-search",
+  "description": "Search Flickr public images by tag",
+  "main": "app.js",
+  "dependencies": {
+    "tabris": "^1.2.0",
+    "promise": "^6.1.0",
+    "whatwg-fetch": "^0.9.0"
+  }
+}
